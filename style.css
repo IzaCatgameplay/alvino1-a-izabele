@@ -34,6 +34,11 @@ nav a {
 	text-decoration: none;
 }
 
+.principal {
+	background: black;
+	color:white;
+}
+
 h2 {
 	font-size: 30;
 	text-decoration-color: ;

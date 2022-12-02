@@ -37,6 +37,8 @@ nav a {
 .principal {
 	background: black;
 	color:white;
+	text-align: center;
+	font-size: 22px;
 }
 
 h2 {
